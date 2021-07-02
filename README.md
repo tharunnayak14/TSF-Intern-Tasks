@@ -2,7 +2,6 @@
 <h1 align="center"> 
 GRIP:The Sparks Foundation
 </h1>
-![alt text](https://lonylitical.github.io/tsf01/tsflogo.png)
 <h2 align="center">
 Data Science and Business Analytics Intern
  </h2>
