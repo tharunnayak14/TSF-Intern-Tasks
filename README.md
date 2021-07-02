@@ -6,5 +6,5 @@ Data Science and Business Analytics Intern
  </h2>
 
 ## Contents
-- <b>Day 1</b> - [Variables](https://github.com/tharunnayak14/100-Days-of-Code/blob/main/Day-1_Band_name_Generator.py)
-- <b>Day 2</b> - [Data Types](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-2)
+- <b>Task 1</b> - [Prediction using Supervised ML (Level - Beginner)]https://github.com/tharunnayak14/TSF-Intern-Tasks/blob/main/Task-1%20Prediction%20using%20Supervised%20ML%20%20(Level%20-%20Beginner).ipynb)
+
