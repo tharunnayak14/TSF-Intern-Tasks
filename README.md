@@ -1,4 +1,8 @@
-![alt text](https://lonylitical.github.io/tsf01/tsflogo.png)
+
+
+<p align="center">
+  <img src="https://lonylitical.github.io/tsf01/tsflogo.png" />
+</p>
 <h1 align="center"> 
 GRIP:The Sparks Foundation
 </h1>
